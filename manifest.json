@@ -1,7 +1,7 @@
 {
   "name": "policies-example-3",
   "vendor": "vtex",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "title": "Example using policies",
   "description": "",
   "mustUpdateAt": "2022-08-28",
